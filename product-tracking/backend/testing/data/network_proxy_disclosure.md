@@ -1,0 +1,1 @@
+Measured using a Python client emulating the ESP32 payload over the same local WiFi network, prior to full on-device ESP32 hardware validation. Not measured from the actual ESP32 device.
