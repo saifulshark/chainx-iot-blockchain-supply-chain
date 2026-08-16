@@ -271,7 +271,7 @@ The backend exposes product and verification APIs through the `/api` route.
 ---
 
 ## Project Output View
-![alt text](img5.png) ![alt text](img6.png) ![alt text](img7.png)
+![alt text](img5.png) ![alt text](img6.png) ![alt text](img7.png)![alt text](img9.png)
 
 ## Verification Model
 
