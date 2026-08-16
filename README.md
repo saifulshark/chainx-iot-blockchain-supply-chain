@@ -33,6 +33,10 @@ Shipment lifecycle management is enforced through smart contracts that define st
 The framework is validated through real-time monitoring, hash verification, alert generation, and end-to-end project flow involving frontend, backend, IoT hardware, and blockchain layers.
 
 ---
+## Live Demo
+[Watch the live demo on YouTube](https://youtu.be/wpuHnrlUp94?si=3sCkqKpjv0aLCy1q)
+
+---
 
 ## Key Objectives
 
