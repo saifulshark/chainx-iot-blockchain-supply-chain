@@ -49,6 +49,11 @@ This module acts as the physical-layer data collection unit for the smart supply
 
 --
 
+
+## Setup Diagram
+<img width="1375" height="1144" alt="hardware setup" src="https://github.com/user-attachments/assets/ab8f9117-8b5c-4e1a-8a33-5e0420527e34" />
+
+
 ## Features
 
 ### 1. RFID Access Control
